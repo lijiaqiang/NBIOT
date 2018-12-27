@@ -1,0 +1,7 @@
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 40.csprojResolveAssemblyReference.cache
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.LEDTestForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.MainForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.PowerVoiceForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.Properties.Resources.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 40.csproj.GenerateResource.Cache
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 40.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\3c.bmp
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\CDFPSK.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\MAT.accdb
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\BarCodeDesign.ini
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\config.ini
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\FobIDDesign.ini
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\SNDesign.ini
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\log4net.xml
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\MAT.exe.config
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\MAT.exe
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\MAT.pdb
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.Common.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.Common.Native.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.NI4882.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.NiLmClientDLL.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\Newtonsoft.Json.dll
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.Common.xml
+D:\生产\NBIOT\mat\mat\MAT\bin\x86\Release\NationalInstruments.NI4882.xml
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csprojResolveAssemblyReference.cache
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.LEDTestForm.resources
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.MainForm.resources
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.PowerVoiceForm.resources
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.Properties.Resources.resources
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csproj.GenerateResource.Cache
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csproj.CoreCompileInputs.cache
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.exe
+D:\生产\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.pdb
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csprojResolveAssemblyReference.cache
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.LEDTestForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.MainForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.PowerVoiceForm.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.Properties.Resources.resources
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csproj.GenerateResource.Cache
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT - 45.csproj.CoreCompileInputs.cache
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.exe
+D:\Produce_software\NBIOT\mat\mat\MAT\obj\x86\Release\MAT.pdb

@@ -1,0 +1,27 @@
+D:\WorkCode\MAT\mat\MAT\bin\Debug\3c.bmp
+D:\WorkCode\MAT\mat\MAT\bin\Debug\CDFPSK.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\MAT.accdb
+D:\WorkCode\MAT\mat\MAT\bin\Debug\BarCodeDesign.ini
+D:\WorkCode\MAT\mat\MAT\bin\Debug\config.ini
+D:\WorkCode\MAT\mat\MAT\bin\Debug\FobIDDesign.ini
+D:\WorkCode\MAT\mat\MAT\bin\Debug\SNDesign.ini
+D:\WorkCode\MAT\mat\MAT\bin\Debug\log4net.xml
+D:\WorkCode\MAT\mat\MAT\bin\Debug\MAT.exe.config
+D:\WorkCode\MAT\mat\MAT\bin\Debug\MAT.exe
+D:\WorkCode\MAT\mat\MAT\bin\Debug\MAT.pdb
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.Common.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.Common.Native.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.NI4882.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\Newtonsoft.Json.dll
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.Common.xml
+D:\WorkCode\MAT\mat\MAT\bin\Debug\NationalInstruments.NI4882.xml
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT - 45.csprojResolveAssemblyReference.cache
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.LEDTestForm.resources
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.MainForm.resources
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.PowerVoiceForm.resources
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.Properties.Resources.resources
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT - 45.csproj.GenerateResource.Cache
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT - 45.csproj.CoreCompileInputs.cache
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.exe
+D:\WorkCode\MAT\mat\MAT\obj\Debug\MAT.pdb

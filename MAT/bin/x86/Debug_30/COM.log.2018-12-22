@@ -1,0 +1,41 @@
+{"status":400,"message":"this device have not bind deviceType","data":{}}
+success
+参数匹配错误:1,0
+参数匹配错误:m_deviceType[1],m_lastStatus[0]
+参数匹配错误:m_deviceType[1],m_lastStatus[0]
+success
+参数匹配错误:m_deviceType[2],m_pairImei[862341040000582]
+{"status":400,"message":"device_type can not matched","data":{}}
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":2,"version":"V150R100C20B300SP2"}}
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":2,"version":"V150R100C20B300SP2"}}
+参数匹配错误:m_deviceType[2],m_lastStatus[0]
+参数匹配错误:m_deviceType[2],m_lastStatus[0]
+参数匹配错误:m_deviceType[2],m_lastStatus[0]
+{"status":400,"message":"different type","data":{}}
+解绑成功
+{"status":400,"message":"this device have not bind deviceType","data":{}}
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":2,"version":"V150R100C20B300SP2"}}
+{"status":400,"message":"different type","data":{}}
+解绑成功
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":1,"version":"V150R100C20B300SP2"}}
+success
+参数匹配错误:m_deviceType[1],m_pairImei[862341040000582]
+参数匹配错误:m_deviceType[1],m_pairImei[862341040000582]
+参数匹配错误:m_deviceType[1],m_pairImei[862341040000582]
+参数匹配错误:m_deviceType[1],m_pairImei[862341040000582]
+参数匹配错误:m_deviceType[3],m_lastStatus[0]
+Method Not Allowed
+Method Not Allowed
+Method Not Allowed
+{"status":400,"message":"device_type can not matched","data":{}}
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":2,"version":"V150R100C20B300SP2"}}
+{"status":400,"message":"different type","data":{}}
+解绑成功
+success
+hour:17
+
+success
+{"status":400,"message":"device_type can not matched","data":{"result":1,"pair_imei":"862341040000582","device_type":2,"version":"V150R100C20B300SP2"}}
+{"status":400,"message":"different type","data":{}}
+{"status":400,"message":"different type","data":{}}
+解绑成功
